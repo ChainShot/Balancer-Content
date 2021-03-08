@@ -10,7 +10,8 @@
   "stageContainerId": "6043b20fe52da6b0770d76cd",
   "codeStageIds": [
     "6045a2f6b7133930587dfb42",
-    "6045ac42b7133930587dfb49"
+    "6045ac42b7133930587dfb49",
+    "60463c7fb7133930587dfb4e"
   ],
   "id": "6045a2f6b7133930587dfb44",
   "initialCode": "$$LOOKUP",

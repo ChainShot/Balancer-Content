@@ -1,0 +1,23 @@
+{
+  "containerId": "6043b20fe52da6b0770d76cd",
+  "title": "New Spot Price",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "60463c7fb7133930587dfb4e",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "6045a2f6b7133930587dfb44",
+    "6045a2f6b7133930587dfb46",
+    "6045ac4cb7133930587dfb4b",
+    "60463d7bb7133930587dfb51",
+    "60463db3b7133930587dfb53"
+  ],
+  "position": 3,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 11986000
+}
