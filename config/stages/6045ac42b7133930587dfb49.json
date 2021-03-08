@@ -1,0 +1,22 @@
+{
+  "containerId": "6043b20fe52da6b0770d76cd",
+  "title": "Calculate Out",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "6045ac42b7133930587dfb49",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "6045a2f6b7133930587dfb44",
+    "6045a2f6b7133930587dfb46",
+    "6045ac4cb7133930587dfb4b",
+    "6045acdab7133930587dfb4d"
+  ],
+  "position": 2,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 11986000
+}
