@@ -1,0 +1,21 @@
+{
+  "containerId": "6043b20fe52da6b0770d76cd",
+  "title": "Pool Info",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "6045a2f6b7133930587dfb42",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "6045a2f6b7133930587dfb43",
+    "6045a2f6b7133930587dfb44",
+    "6045a2f6b7133930587dfb46"
+  ],
+  "position": 1,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 11986000
+}
