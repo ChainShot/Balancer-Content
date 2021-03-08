@@ -1,6 +1,6 @@
 {
-  "executablePath": "calculateOut.js",
-  "name": "calculateOut.js",
+  "executablePath": "arbitrage.js",
+  "name": "arbitrage.js",
   "executable": true,
   "hasProgress": true,
   "mode": "javascript",
@@ -9,11 +9,9 @@
   "visible": true,
   "stageContainerId": "6043b20fe52da6b0770d76cd",
   "codeStageIds": [
-    "6045ac42b7133930587dfb49",
-    "60463c7fb7133930587dfb4e",
     "6046406eb7133930587dfb54"
   ],
-  "id": "6045ac4cb7133930587dfb4b",
+  "id": "60464086b7133930587dfb58",
   "initialCode": "$$LOOKUP",
   "fileLocation": null
 }
