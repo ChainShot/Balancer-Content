@@ -2,5 +2,6 @@
   "id": "6043b20fe52da6b0770d76cd",
   "type": "Lesson",
   "stageContainerGroupId": "6043b20fe52da6b0770d76cc",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "intro": "$$LOOKUP"
 }

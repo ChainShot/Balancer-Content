@@ -25,8 +25,9 @@ describe('Trader', function () {
         const wethDiff = newWethBalance.sub(wethBalance);
         const daiDiff = newDaiBalance.sub(daiBalance);
 
-        assert(wethDiff.gte(0));
-        assert(daiDiff.gte(0));
+        assert(wethDiff.gte(0), "Should not lose any WETH");
+        assert(daiDiff.gte(0), "Should not lose any DAI");
+        assert(wethDiff.gt(0) || daiDiff.gt(0), "A profit should be made");
 
         console.log(`Profit in Dai: ${ethers.utils.formatEther(daiDiff)}`);
         console.log(`Profit in Weth: ${ethers.utils.formatEther(wethDiff)}`);
