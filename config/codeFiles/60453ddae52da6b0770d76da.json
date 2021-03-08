@@ -1,0 +1,17 @@
+{
+  "executablePath": "test/getToken.js",
+  "name": "getToken.js",
+  "executable": true,
+  "hasProgress": false,
+  "mode": "javascript",
+  "readOnly": true,
+  "testFixture": true,
+  "visible": true,
+  "stageContainerId": "6043b20fe52da6b0770d76cd",
+  "codeStageIds": [
+    "6043ce35e52da6b0770d76ce"
+  ],
+  "id": "60453ddae52da6b0770d76da",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}

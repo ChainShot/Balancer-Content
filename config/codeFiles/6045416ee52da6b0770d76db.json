@@ -1,0 +1,17 @@
+{
+  "executablePath": "contracts/IERC20.sol",
+  "name": "IERC20.sol",
+  "executable": true,
+  "hasProgress": false,
+  "mode": "sol",
+  "readOnly": true,
+  "testFixture": false,
+  "visible": false,
+  "stageContainerId": "6043b20fe52da6b0770d76cd",
+  "codeStageIds": [
+    "6043ce35e52da6b0770d76ce"
+  ],
+  "id": "6045416ee52da6b0770d76db",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}

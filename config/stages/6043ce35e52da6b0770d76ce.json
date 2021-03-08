@@ -1,0 +1,23 @@
+{
+  "containerId": "6043b20fe52da6b0770d76cd",
+  "title": "Trading",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "6043ce35e52da6b0770d76ce",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "6043ce35e52da6b0770d76cf",
+    "6043d431e52da6b0770d76d2",
+    "60444b09e52da6b0770d76d4",
+    "60453ddae52da6b0770d76da",
+    "6045416ee52da6b0770d76db"
+  ],
+  "position": 0,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 11986000
+}
