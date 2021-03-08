@@ -6,7 +6,7 @@
   "mode": "javascript",
   "readOnly": true,
   "testFixture": true,
-  "visible": true,
+  "visible": false,
   "stageContainerId": "6043b20fe52da6b0770d76cd",
   "codeStageIds": [
     "6046406eb7133930587dfb54"
